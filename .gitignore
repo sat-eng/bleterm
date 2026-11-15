@@ -1,0 +1,18 @@
+# CMake build directories (CLion uses cmake-build-*)
+build/
+cmake-build-*/
+CMakeUserPresets.json
+compile_commands.json
+
+# IDEs and editors
+.idea/
+.vscode/
+.cache/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
