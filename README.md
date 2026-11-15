@@ -57,4 +57,6 @@ Devices with the Nordic UART service are picked up automatically, like a serial 
 
 ## License
 
-bleterm depends on SimpleBLE, which is under the Business Source License 1.1: free for personal and non-commercial use.
+bleterm is released under the MIT License; see [LICENCE](LICENCE).
+
+It depends on SimpleBLE, which has its own licence, the Business Source License 1.1: free for personal and non-commercial use. Commercial use of a bleterm build needs a SimpleBLE commercial licence.
